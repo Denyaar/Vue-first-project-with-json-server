@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "3rd Maray 2023",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Sviring",
+      "day": "2 Manheru 2023",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Washing",
+      "day": "3rd Of June",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Cleaning",
+      "day": "4rd Of June",
+      "reminder": false
+    },
+    {
+      "id": 76893,
+      "text": "Hakuna Minhu",
+      "day": "10 jan 2019",
+      "reminder": true
+    }
+  ]
+}
